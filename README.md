@@ -10,5 +10,6 @@
 2. orange
 3. zeebra
 
--cow
--leopard
+- cow
+- leopard
+- frog
